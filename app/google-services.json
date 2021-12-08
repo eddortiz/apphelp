@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431211796742",
+    "project_id": "apphelp-fdd37",
+    "storage_bucket": "apphelp-fdd37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431211796742:android:57ac19ce2914760a782687",
+        "android_client_info": {
+          "package_name": "com.hsc.apphelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431211796742-r1borealihhc2l2nu5pi2qeqgm8o463u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-DJnFy3I9y9g47CxMovJmw5HharkP8to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431211796742-r1borealihhc2l2nu5pi2qeqgm8o463u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
